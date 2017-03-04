@@ -1,0 +1,5 @@
+enfermedades,Codigo enfermedad,Codigo loci,Cromosoma afectado,Region afectada,posicion afectada
+Asthma,25,25,1,1q23.2,159711078
+Allergic rhinitis,83,83,3,3q23,141386728
+Allergic rhinitis in asthma,17,17,15,15q25.1,78513681
+Atopic dermatitis,60,60,11,11p15.4,5285279
